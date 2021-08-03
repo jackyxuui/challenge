@@ -1,3 +1,5 @@
+PS: after run "npm install" and "npm start", please open the browser and goes to 'http://localhost:3000/' 
+
 ## Introduction:
 
 Believe it or not, Walmart Mexico is a growing startup-like division within Walmart that is looking for fullstack front-end developers like yourself to help it scale to a be a billion dollar revenue division.
