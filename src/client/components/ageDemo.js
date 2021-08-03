@@ -41,7 +41,7 @@ export default function AgeDemo(){
 
     return(
         <div>
-            <h4 style={{textAlign: 'left'}}>Age Demographic Of Users With___</h4>
+            <h4 style={{textAlign: 'left'}}>Age Demographic Of Users With {selectedItem === '' ? '___' : selectedItem}</h4>
             <Dropdown style={{textAlign: 'left'}}>
 
 
